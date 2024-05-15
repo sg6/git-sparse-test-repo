@@ -1,0 +1,4 @@
+{
+    "config": "json",
+    "some-array": [1, 2, 3]
+}
